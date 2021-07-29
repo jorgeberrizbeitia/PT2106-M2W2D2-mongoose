@@ -1,0 +1,6 @@
+[
+  { "name": "Sina", "age": 21, "isHappy": true, "pizzaToppings": ["Pinneaple", "Veggies"] },
+  { "name": "Leo", "age": 22, "isHappy": false, "pizzaToppings": ["Pepperoni", "Veggies"] },
+  { "name": "Alejandro", "age": 48, "isHappy": false, "pizzaToppings": ["Pepperoni"] },
+  { "name": "Carolina", "age": 21, "isHappy": true, "pizzaToppings": ["Pinneaple"] }
+]
